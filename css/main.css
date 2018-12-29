@@ -78,13 +78,19 @@ footer{
 img{
     max-width: 100%;
 }
+.imgs-display{
+    padding: 0px;
+}
+.imgs-display img{
+    border-radius: 3%;
+}
 .imgs-display li {
     float: left;
     /* display: inline; */
-    width: 45%;
+    width: 27.3%;
     background-color: #f5f5f5;
     color: #bdc3c7;
-    margin: 2.5%;
+    margin: 3%;
 }
 .imgs-display li p{
     padding: 5%;
